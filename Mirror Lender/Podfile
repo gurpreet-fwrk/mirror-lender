@@ -1,0 +1,16 @@
+
+platform :ios, '10.0'
+
+target 'Mirror Lender' do
+  use_frameworks!
+
+  
+  pod 'IQKeyboardManagerSwift'
+  pod 'DropDown'
+  pod 'SwiftCharts', :git => 'https://github.com/i-schuetz/SwiftCharts.git'
+  pod 'PieCharts'
+  pod 'VACalendar'
+  pod 'KDCalendar'
+#  pod 'MonthYearPicker'
+
+end

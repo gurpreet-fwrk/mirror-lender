@@ -1,0 +1,44 @@
+PODS:
+  - DropDown (2.3.2)
+  - IQKeyboardManagerSwift (6.0.4)
+  - KDCalendar (1.6.5)
+  - PieCharts (0.0.6)
+  - SwiftCharts (0.6.1)
+  - VACalendar (1.3)
+
+DEPENDENCIES:
+  - DropDown
+  - IQKeyboardManagerSwift
+  - KDCalendar
+  - PieCharts
+  - SwiftCharts (from `https://github.com/i-schuetz/SwiftCharts.git`)
+  - VACalendar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DropDown
+    - IQKeyboardManagerSwift
+    - KDCalendar
+    - PieCharts
+    - VACalendar
+
+EXTERNAL SOURCES:
+  SwiftCharts:
+    :git: https://github.com/i-schuetz/SwiftCharts.git
+
+CHECKOUT OPTIONS:
+  SwiftCharts:
+    :commit: 94bbbc87c5a8d111c56465cf9f49d27f550ac703
+    :git: https://github.com/i-schuetz/SwiftCharts.git
+
+SPEC CHECKSUMS:
+  DropDown: 7f87abecc28f9b4edad810fe1211c5c018c257e5
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+  KDCalendar: 15e74f37bd3d206bf7549c594fd08e0347c276f4
+  PieCharts: f4f866b3ed45dbeda355cc64664091024a9819ee
+  SwiftCharts: 344c17e93852fb14358046d0bcb831329c149648
+  VACalendar: 3e5a001cbf437ebed2bcfc747f3187e555d65175
+
+PODFILE CHECKSUM: 148a6a6ce62322897b048f0a8131909f9d4bd961
+
+COCOAPODS: 1.5.3

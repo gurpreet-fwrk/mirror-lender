@@ -1,0 +1,6 @@
+framework module Pods_Mirror_Lender {
+  umbrella header "Pods-Mirror Lender-umbrella.h"
+
+  export *
+  module * { export * }
+}
